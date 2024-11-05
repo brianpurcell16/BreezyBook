@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Oracle.ManagedDataAccess": {
+              "target": "Package",
+              "version": "[23.6.0, )"
+            },
             "bunit": {
               "target": "Package",
               "version": "[1.34.0, )"

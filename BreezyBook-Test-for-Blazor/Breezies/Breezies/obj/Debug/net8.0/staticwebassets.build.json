@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HKXVJJy5HN1rlAx5moZBgDlNlUWI/7XnXZD2QedbGWA=",
+  "Hash": "X2JqFtXJiovw5ivy/BNdExdWZblTXQ9nsTCPEEj3NRM=",
   "Source": "Breezies",
   "BasePath": "_content/Breezies",
   "Mode": "Default",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\T00227173\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\8.0.10\\staticwebassets\\AuthenticationService.js",
+      "SourceId": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\T00227173\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\8.0.10\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "RelativePath": "AuthenticationService.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\T00227173\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\8.0.10\\staticwebassets\\AuthenticationService.js"
+    },
     {
       "Identity": "C:\\Users\\T00227173\\source\\Repos-2\\BreezyBook-Test-for-Blazor\\Breezies\\Breezies\\wwwroot\\app.css",
       "SourceId": "Breezies",
