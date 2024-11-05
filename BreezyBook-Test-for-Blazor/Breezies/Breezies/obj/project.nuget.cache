@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "YmSce/Q6PmRUKMJKmwQns1VZU1IGq5mAZrk6UXU5JItRb2q6hGLcaXxVMsG/iSZu/tNiv0NVJ3xbIULJgEmymA==",
+  "dgSpecHash": "QXy9nsN7uFo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\T00223518\\Downloads\\BreezyBook-Test-for-Blazor\\BreezyBook-Test-for-Blazor\\Breezies\\Breezies\\Breezies.csproj",
+  "projectFilePath": "C:\\Users\\DJMac\\OneDrive\\Documents\\GitHub\\BreezyBook\\BreezyBook-Test-for-Blazor\\Breezies\\Breezies\\Breezies.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\DJMac\\OneDrive\\Documents\\GitHub\\BreezyBook\\BreezyBook-Test-for-Blazor\\Breezies\\Breezies\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

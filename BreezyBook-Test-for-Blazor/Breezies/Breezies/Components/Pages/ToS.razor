@@ -1,0 +1,27 @@
+﻿@page "/ToS"
+
+<p>I agree that i am an idiot</p>
+<p>Go <a href ="/">back</a></p>
+
+
+@using Microsoft.AspNetCore.Components.Forms
+@using Microsoft.AspNetCore.Components.Web
+@using Microsoft.JSInterop
+@using Microsoft.Extensions.DependencyInjection
+@using AngleSharp.Dom
+@using Bunit
+@using Bunit.TestDoubles
+
+@inherits TestContext
+@code
+{
+  [Fact]
+  public void ComponentRendersCorrectly()
+  {
+    // Act
+    var cut = Render(@<HelloWorld/>);
+
+    // Assert
+    cut.MarkupMatches(@<h1>Hello world from Blazor</h1>);
+  }
+}
