@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "m0b0Q8FbIRfUxKvbOjXxqBO2HV60Cm1XF1ccbxzZwb4=",
+  "Hash": "HKXVJJy5HN1rlAx5moZBgDlNlUWI/7XnXZD2QedbGWA=",
   "Source": "Breezies",
   "BasePath": "_content/Breezies",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Breezies\\wwwroot",
       "Source": "Breezies",
-      "ContentRoot": "C:\\Users\\T00223518\\Downloads\\BreezyBook-Test-for-Blazor\\BreezyBook-Test-for-Blazor\\Breezies\\Breezies\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T00227173\\source\\Repos-2\\BreezyBook-Test-for-Blazor\\Breezies\\Breezies\\wwwroot\\",
       "BasePath": "_content/Breezies",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\T00223518\\Downloads\\BreezyBook-Test-for-Blazor\\BreezyBook-Test-for-Blazor\\Breezies\\Breezies\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\T00227173\\source\\Repos-2\\BreezyBook-Test-for-Blazor\\Breezies\\Breezies\\wwwroot\\app.css",
       "SourceId": "Breezies",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T00223518\\Downloads\\BreezyBook-Test-for-Blazor\\BreezyBook-Test-for-Blazor\\Breezies\\Breezies\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T00227173\\source\\Repos-2\\BreezyBook-Test-for-Blazor\\Breezies\\Breezies\\wwwroot\\",
       "BasePath": "_content/Breezies",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\T00223518\\Downloads\\BreezyBook-Test-for-Blazor\\BreezyBook-Test-for-Blazor\\Breezies\\Breezies\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\T00227173\\source\\Repos-2\\BreezyBook-Test-for-Blazor\\Breezies\\Breezies\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "Breezies",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T00223518\\Downloads\\BreezyBook-Test-for-Blazor\\BreezyBook-Test-for-Blazor\\Breezies\\Breezies\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T00227173\\source\\Repos-2\\BreezyBook-Test-for-Blazor\\Breezies\\Breezies\\wwwroot\\",
       "BasePath": "_content/Breezies",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\T00223518\\Downloads\\BreezyBook-Test-for-Blazor\\BreezyBook-Test-for-Blazor\\Breezies\\Breezies\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\T00227173\\source\\Repos-2\\BreezyBook-Test-for-Blazor\\Breezies\\Breezies\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Breezies",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T00223518\\Downloads\\BreezyBook-Test-for-Blazor\\BreezyBook-Test-for-Blazor\\Breezies\\Breezies\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T00227173\\source\\Repos-2\\BreezyBook-Test-for-Blazor\\Breezies\\Breezies\\wwwroot\\",
       "BasePath": "_content/Breezies",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\T00223518\\Downloads\\BreezyBook-Test-for-Blazor\\BreezyBook-Test-for-Blazor\\Breezies\\Breezies\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\T00227173\\source\\Repos-2\\BreezyBook-Test-for-Blazor\\Breezies\\Breezies\\wwwroot\\favicon.png",
       "SourceId": "Breezies",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\T00223518\\Downloads\\BreezyBook-Test-for-Blazor\\BreezyBook-Test-for-Blazor\\Breezies\\Breezies\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\T00227173\\source\\Repos-2\\BreezyBook-Test-for-Blazor\\Breezies\\Breezies\\wwwroot\\",
       "BasePath": "_content/Breezies",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
