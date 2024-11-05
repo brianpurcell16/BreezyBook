@@ -13,4 +13,8 @@
     <None Remove="Components\Components\**" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="bunit" Version="1.34.0" />
+  </ItemGroup>
+
 </Project>

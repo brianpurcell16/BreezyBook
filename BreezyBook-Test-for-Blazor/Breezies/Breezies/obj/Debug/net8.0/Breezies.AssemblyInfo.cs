@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Breezies")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4281d27f1fc9797ab3667175833fd1753e7e17dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5685c0c6f395013a31a704721785f3e988cb9d2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Breezies")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Breezies")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

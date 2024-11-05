@@ -13,4 +13,7 @@
     <SourceRoot Include="C:\Users\T00227173\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.components.webassembly.authentication\8.0.10\buildTransitive\Microsoft.AspNetCore.Components.WebAssembly.Authentication.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.components.webassembly.authentication\8.0.10\buildTransitive\Microsoft.AspNetCore.Components.WebAssembly.Authentication.props')" />
+  </ImportGroup>
 </Project>
